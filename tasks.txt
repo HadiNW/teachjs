@@ -1,0 +1,27 @@
+1. buatlah sebuah variable yg bernama `phone` dan berisi nomor telfon mu
+2. tampilkan di layar command prompt
+
+
+1. buatlah variable fullName berisi nama lengkap -> john doe
+2. buatlah variable weight berisi berat badan -> 55
+3. buatlah variable married berisi status pernikahan -> false
+4. tampilkan di layar 1 per satu
+
+
+
+
+1. buatlah sebuah variable dengan name `input` 
+   kemungkinan value (`M`, `K`, `H`, `U`, `B`). 
+
+buatlah if statement atau kondisi sebagai berikut:
+
+ M -> Merah
+ K -> Kuning
+ H -> Hijau
+ U -> Ungu
+ B -> Biru
+
+
+ if (input === 'M') {
+    console.log('Merah)
+ }
