@@ -15,6 +15,8 @@ C. Menghitung volume kubus
   3. volume boleh dimasukan dalam variable volume
 
 D. Diketahui seorang user membeli timun, merica, cabai dan tomat masing2 seharga. Rp10.000, Rp21.000, Rp15.000. dengan diskon 10% jika membeli 1 barang saja. user akan mendapatkan diskon 20% jika membeli 2-5 barang. berapakah uang yg dikeluarha user jika terdapat PPN 11%
+
+
 E. Di dalam sebuah kelas terdapat 5 siswa. John, Terry, Sisca, Malla dan Alais. berikut adalah tabel nilai nya.
 
 |name |Math |Sport|Science | Chemical |
