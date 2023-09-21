@@ -4,11 +4,16 @@
 // user akan mendapatkan diskon 30% jika membeli 3 barang atau lebih. 
 // berapakah uang yg dikeluarkan user jika terdapat PPN 11%
 
-// jika membeli tomat lebih dari 2kg akan mendapat diskon 15%
-// jika membeli tomat lebih dari 3kg akan mendapat diskon 15%
+// jika membeli timun lebih dari 2kg akan mendapat diskon 15%
+// jika membeli cabai lebih dari 3kg akan mendapat diskon 15%
 // jika membeli tomat lebih dari 4kg akan mendapat diskon 15%
 
 
 function shop (tomatoQty, chilliQty, tomatooQty) {
 
+}
+
+
+function runIt () {
+	shop()
 }
