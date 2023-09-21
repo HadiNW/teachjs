@@ -9,11 +9,20 @@
 // jika membeli tomat lebih dari 4kg akan mendapat diskon 15%
 
 
+// tambahkan `return` pada variable akhir contoh
+// function shop (tomatoQty, chilliQty, tomatooQty) {
+	// let result = 300
+	// .....
+	// .....
+	// return result
+// }
+
+
 function shop (tomatoQty, chilliQty, tomatooQty) {
 
 }
 
 
 function runIt () {
-	shop()
+	shop(2,3,4)
 }
