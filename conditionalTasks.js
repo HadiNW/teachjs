@@ -19,10 +19,29 @@
 
 
 function shop (tomatoQty, chilliQty, tomatooQty) {
+	let tomatoPrice = 15000
+	let tomatoPriceBeforeDisc = tomatoQty * tomatoPrice
+	let tomatoAfterDisc = tomatoPriceBeforeDisc
 
+	if (tomatoQty > 2) {
+		tomatoAfterDisc = tomatoPriceBeforeDisc * (100-15)/100
+	}
+
+	console.log({tomatoAfterDisc})
+
+
+
+
+	let totalPayment = tomatoAfterDisc 
+
+
+	return totalPayment
 }
 
 
 function runIt () {
-	shop(2,3,4)
+	shop(3,3,4)
 }
+
+
+runIt()
